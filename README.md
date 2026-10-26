@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NV5 Geospatial, Inc. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.nv5.com/
+NV5 Geospatial, Inc. provides advanced geospatial data analytics, engineering design, and asset management solutions. It serves infrastructure, defense, utilities, and natural resources sectors, offering GIS services, hydrospatial analysis, and software platforms to support resilience and performance across the asset lifecycle. With over 100 offices worldwide, NV5 integrates technology-enabled engineering, testing, and consulting to help clients plan, design, build, and operate critical infrastructure.
+
+**Areas:** Company · Geospatial · Engineering · DataAnalytics · Infrastructure
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nv5.com/)
+- [Blog](https://www.nv5.com/blog/)
+- [Privacy policy](https://www.nv5.com/privacy-terms-of-use/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nv5-geospatial-inc/](https://apis.io/providers/nv5-geospatial-inc/).
